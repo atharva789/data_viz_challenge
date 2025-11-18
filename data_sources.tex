@@ -1,0 +1,25 @@
+
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\begin{document}
+\title{Data Provenance for Cleveland STEM Value Proposition}
+\author{Automated Notebook}
+\date{\today}
+\maketitle
+
+\section{Bureau of Labor Statistics}
+\subsection{Local Area Unemployment Statistics (LAUS)}
+State-level unemployment rates provide a comparable labor-market stress signal. Series IDs follow the documented pattern \texttt{LASST\{STATEFIPS\}000000000003}. Data are retrieved via the Public Data API v2 at \url{https://api.bls.gov/publicAPI/v2/timeseries/data/} using the provided API key.
+
+\subsection{Occupational Employment and Wage Statistics (OEWS)}
+Annual median wages by occupation and metro are sourced from the bulk file \texttt{oe.data.1.AllData} hosted at \url{https://download.bls.gov/pub/time.series/oe/}. The notebook filters 2023 annual data (period A01) for STEM-relevant occupations including software developers (15-1252), electrical engineers (17-2071), biomedical engineers (17-2031), clinical laboratory technologists (29-2010), and management analysts (13-1111).
+
+\section{U.S. Census Bureau}
+\subsection{American Community Survey (ACS) 1-year}
+The ACS subject tables are accessed through \url{https://api.census.gov/data/2023/acs/acs1/subject}. The pulls include median gross rent (variable \texttt{S2503\_C01\_001E}) and median earnings for full-time, year-round workers in science and engineering occupations (table \texttt{S2401}; variables \texttt{S2401\_C02\_001E}, \texttt{S2401\_C04\_012E}, \texttt{S2401\_C04\_014E}, \texttt{S2401\_C04\_016E}). Queries specify the target CBSA using the \texttt{for=metropolitan statistical area/micropolitan statistical area:\{CBSA\}} parameter and the provided Census API key.
+
+\section{Output Artifacts}
+The notebook writes intermediate CSVs (e.g., \texttt{laus\_unemployment\_rates.csv}, \texttt{oews\_stem\_msa\_wages.csv}, \texttt{acs\_rent\_stem\_earnings.csv}) and a consolidated \texttt{master\_real\_world\_metrics.csv} file used for downstream visualization.
+
+\end{document}
