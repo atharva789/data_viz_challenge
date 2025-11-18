@@ -1,8 +1,169 @@
 state,year,period,value
-Ohio,2023,Annual,3.6
-California,2023,Annual,4.7
-Massachusetts,2023,Annual,3.2
-Washington,2023,Annual,3.8
-New York,2023,Annual,4.1
-Texas,2023,Annual,4.0
-Pennsylvania,2023,Annual,3.9
+Ohio,2024,December,4.2
+Ohio,2024,November,4.2
+Ohio,2024,October,3.9
+Ohio,2024,September,4.1
+Ohio,2024,August,4.3
+Ohio,2024,July,4.7
+Ohio,2024,June,4.7
+Ohio,2024,May,4.1
+Ohio,2024,April,3.9
+Ohio,2024,March,4.4
+Ohio,2024,February,4.5
+Ohio,2024,January,4.4
+Ohio,2023,December,3.5
+Ohio,2023,November,3.3
+Ohio,2023,October,3.5
+Ohio,2023,September,3.6
+Ohio,2023,August,3.7
+Ohio,2023,July,3.7
+Ohio,2023,June,3.8
+Ohio,2023,May,3.3
+Ohio,2023,April,3.1
+Ohio,2023,March,3.9
+Ohio,2023,February,4.2
+Ohio,2023,January,4.2
+California,2024,December,5.2
+California,2024,November,5.4
+California,2024,October,5.3
+California,2024,September,5.2
+California,2024,August,5.9
+California,2024,July,5.9
+California,2024,June,5.4
+California,2024,May,4.7
+California,2024,April,4.8
+California,2024,March,5.2
+California,2024,February,5.4
+California,2024,January,5.4
+California,2023,December,4.9
+California,2023,November,4.8
+California,2023,October,4.9
+California,2023,September,4.8
+California,2023,August,5.1
+California,2023,July,4.8
+California,2023,June,4.7
+California,2023,May,4.3
+California,2023,April,4.1
+California,2023,March,4.7
+California,2023,February,4.8
+California,2023,January,4.7
+Massachusetts,2024,December,4.1
+Massachusetts,2024,November,3.9
+Massachusetts,2024,October,3.9
+Massachusetts,2024,September,3.8
+Massachusetts,2024,August,4.3
+Massachusetts,2024,July,4.5
+Massachusetts,2024,June,4.2
+Massachusetts,2024,May,3.8
+Massachusetts,2024,April,3.4
+Massachusetts,2024,March,4.0
+Massachusetts,2024,February,4.3
+Massachusetts,2024,January,4.2
+Massachusetts,2023,December,3.6
+Massachusetts,2023,November,3.2
+Massachusetts,2023,October,3.3
+Massachusetts,2023,September,3.2
+Massachusetts,2023,August,3.6
+Massachusetts,2023,July,3.6
+Massachusetts,2023,June,3.6
+Massachusetts,2023,May,3.3
+Massachusetts,2023,April,2.8
+Massachusetts,2023,March,3.7
+Massachusetts,2023,February,4.1
+Massachusetts,2023,January,4.0
+Washington,2024,December,4.3
+Washington,2024,November,4.3
+Washington,2024,October,4.2
+Washington,2024,September,4.1
+Washington,2024,August,4.6
+Washington,2024,July,4.7
+Washington,2024,June,4.4
+Washington,2024,May,4.2
+Washington,2024,April,4.1
+Washington,2024,March,4.7
+Washington,2024,February,5.1
+Washington,2024,January,5.0
+Washington,2023,December,4.7
+Washington,2023,November,4.4
+Washington,2023,October,4.4
+Washington,2023,September,4.2
+Washington,2023,August,4.5
+Washington,2023,July,4.0
+Washington,2023,June,3.8
+Washington,2023,May,3.7
+Washington,2023,April,3.6
+Washington,2023,March,4.1
+Washington,2023,February,4.5
+Washington,2023,January,4.5
+New York,2024,December,4.2
+New York,2024,November,4.2
+New York,2024,October,4.2
+New York,2024,September,4.0
+New York,2024,August,4.8
+New York,2024,July,4.8
+New York,2024,June,4.3
+New York,2024,May,4.0
+New York,2024,April,3.9
+New York,2024,March,4.3
+New York,2024,February,4.6
+New York,2024,January,4.4
+New York,2023,December,4.0
+New York,2023,November,3.9
+New York,2023,October,4.1
+New York,2023,September,3.9
+New York,2023,August,4.4
+New York,2023,July,4.1
+New York,2023,June,4.0
+New York,2023,May,3.8
+New York,2023,April,3.5
+New York,2023,March,4.1
+New York,2023,February,4.5
+New York,2023,January,4.4
+Texas,2024,December,3.7
+Texas,2024,November,4.1
+Texas,2024,October,4.0
+Texas,2024,September,4.1
+Texas,2024,August,4.4
+Texas,2024,July,4.5
+Texas,2024,June,4.5
+Texas,2024,May,3.8
+Texas,2024,April,3.6
+Texas,2024,March,3.9
+Texas,2024,February,4.2
+Texas,2024,January,4.1
+Texas,2023,December,3.7
+Texas,2023,November,3.7
+Texas,2023,October,3.8
+Texas,2023,September,4.0
+Texas,2023,August,4.3
+Texas,2023,July,4.2
+Texas,2023,June,4.2
+Texas,2023,May,3.9
+Texas,2023,April,3.5
+Texas,2023,March,4.0
+Texas,2023,February,4.4
+Texas,2023,January,4.3
+Pennsylvania,2024,December,3.3
+Pennsylvania,2024,November,3.3
+Pennsylvania,2024,October,3.4
+Pennsylvania,2024,September,3.2
+Pennsylvania,2024,August,4.5
+Pennsylvania,2024,July,4.2
+Pennsylvania,2024,June,3.9
+Pennsylvania,2024,May,3.3
+Pennsylvania,2024,April,3.1
+Pennsylvania,2024,March,3.6
+Pennsylvania,2024,February,4.0
+Pennsylvania,2024,January,3.8
+Pennsylvania,2023,December,3.3
+Pennsylvania,2023,November,3.2
+Pennsylvania,2023,October,3.4
+Pennsylvania,2023,September,3.3
+Pennsylvania,2023,August,4.4
+Pennsylvania,2023,July,3.9
+Pennsylvania,2023,June,3.8
+Pennsylvania,2023,May,3.4
+Pennsylvania,2023,April,3.1
+Pennsylvania,2023,March,3.7
+Pennsylvania,2023,February,4.3
+Pennsylvania,2023,January,4.1
