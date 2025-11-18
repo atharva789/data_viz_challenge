@@ -1,9 +1,8 @@
-cbsa,metro_name,median_gross_rent,median_earnings_all_ft,median_earnings_computer_math,median_earnings_engineering,median_earnings_life_physical_social_sci
-17460,"Cleveland-Elyria, OH",1150,52000,93000,91000,74000
-41860,"San Francisco-Oakland-Berkeley, CA",2600,87000,150000,140000,115000
-42660,"Seattle-Tacoma-Bellevue, WA",1950,78000,135000,128000,99000
-14460,"Boston-Cambridge-Newton, MA-NH",2100,76000,140000,125000,105000
-35620,"New York-Newark-Jersey City, NY-NJ-PA",2300,71000,135000,120000,98000
-12420,"Austin-Round Rock-Georgetown, TX",1550,65000,122000,113000,90000
-47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2000,82000,138000,125000,102000
-33100,"Miami-Fort Lauderdale-West Palm Beach, FL",1700,56000,110000,98000,82000
+median_gross_rent,median_earnings_all_ft,median_earnings_computer_math,median_earnings_engineering,median_earnings_life_physical_social_sci,metropolitan statistical area/micropolitan statistical area,cbsa,metro_name
+1036074,754931,11464,20323,37603,12420,12420,"Austin-Round Rock-Georgetown, TX"
+1949953,1385260,24697,36434,111156,14460,14460,"Boston-Cambridge-Newton, MA-NH"
+2349920,1661543,29800,33837,88901,33100,33100,"Miami-Fort Lauderdale-West Palm Beach, FL"
+7490498,5091387,103237,172104,323420,35620,35620,"New York-Newark-Jersey City, NY-NJ-PA"
+1763465,1267440,25061,38465,72953,41860,41860,"San Francisco-Oakland-Berkeley, CA"
+1627693,1165606,14435,30652,65930,42660,42660,"Seattle-Tacoma-Bellevue, WA"
+2409575,1752403,47027,57080,92239,47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV"
